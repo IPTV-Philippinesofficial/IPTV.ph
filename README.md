@@ -1,9 +1,7 @@
 # IPHTV
 Philippine based maintained IPTV list from various sources.
-Channel List as of 12/2/2025:
+Channel List as of 03/26/2026:
 ```
-Japanim TV
-XilamTV
 Yahoo! Finance
 EWTN Europe
 NBA TV
@@ -14,12 +12,6 @@ Disney XD
 Disney Jr
 EWTN Asia-Pacific
 BBC News Asia Pacific
-TV5 Monde Asia
-TV5Monde Pacifique
-TV5 Asie
-TV5 Style
-TVE Internacional Asia-Oceania
-TVE Internacional Europe-Asia
 Travel Channel
 Arirang
 ALJAZEERA
@@ -40,8 +32,9 @@ Kariakos Kids
 Magic Kids
 Persiana Junior
 Retro Crush
-MrBean Animated Series
-Rakuten TV Action Movies
+BBC Lifestyle
+Moonbug Kids
+Cartoonito
 
 Local Channels:
 The Filipino Channel
@@ -50,14 +43,19 @@ Mindanow Network TV
 TV Maria Philippines
 INC TV
 Kapamilya Channel
-TV 5
+TV5
 PTV
 ALLTV
+GMA
+A2Z
+DepEd TV
+Vegas Life TV
+FilAm TV Network
 ```
 
 LINK TO IPTV M3U:
 ```
-https://raw.githubusercontent.com/Harleythetech/IPHTV/refs/heads/main/ph.m3u
+https://raw.githubusercontent.com/IPTV-Philippinesofficial/IPTV.ph/refs/heads/main/ph.m3u
 ```
 ``
     - Credits to all the sources of the working m3u links 
