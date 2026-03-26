@@ -34,6 +34,7 @@ Persiana Junior
 Retro Crush
 BBC Lifestyle
 Moonbug Kids
+Cartoonito
 
 Local Channels:
 The Filipino Channel
