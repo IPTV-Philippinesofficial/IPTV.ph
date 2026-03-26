@@ -42,6 +42,8 @@ Persiana Junior
 Retro Crush
 MrBean Animated Series
 Rakuten TV Action Movies
+BBC Lifestyle
+Moonbug Kids
 
 Local Channels:
 The Filipino Channel
@@ -50,14 +52,19 @@ Mindanow Network TV
 TV Maria Philippines
 INC TV
 Kapamilya Channel
-TV 5
+TV5
 PTV
 ALLTV
+GMA
+A2Z
+DepEd TV
+Vegas Life TV
+FilAm TV Network
 ```
 
 LINK TO IPTV M3U:
 ```
-https://raw.githubusercontent.com/Harleythetech/IPHTV/refs/heads/main/ph.m3u
+https://raw.githubusercontent.com/IPTV-Philippinesofficial/IPTV.ph/refs/heads/main/ph.m3u
 ```
 ``
     - Credits to all the sources of the working m3u links 
