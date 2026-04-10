@@ -65,14 +65,10 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1,Japanim TV (1080p)
 https://foxkidstv.be:3369/stream/play.m3u8
-#EXTINF:-1,Kuriakos Kids (1080p)
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1,Magic Kids (486p)
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,Zarok TV Sorani (720p)
-https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1,Disney XD
 https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1,Disney Jr
